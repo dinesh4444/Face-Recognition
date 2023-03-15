@@ -43,4 +43,5 @@ python app.py
 This project was inspired by the following articles:
 
 https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+  
 https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/
